@@ -36,4 +36,4 @@ In this double-blind, randomized cross-over study, we aimed to investigate the e
     Sensations experienced during stimulation.
 
 ## Methodology Diagram
-![image](https://github.com/user-attachments/assets/2129e381-0378-41f5-8f90-c8c813e1162a)
+![image](https://github.com/user-attachments/assets/99877b90-f6ca-4acd-8992-8cce87526c3c)

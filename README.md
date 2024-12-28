@@ -24,18 +24,16 @@ In this double-blind, randomized cross-over study, we aimed to investigate the e
 
 ### Step 2: Experimental Sessions
 #### Each session included:
-
-   ##### Pre-intervention pain testing: Thermal stimuli delivered to two calibrated forearm sites.
-   ##### Social manipulation: Videos describing analgesic or hyperalgesic tDCS effects.
-   ##### tDCS intervention:
-   ###### 2mA stimulation for 20 minutes using the StarStim system.
-   ###### Anode: C3; Cathode: FP2.
-  ##### Post-intervention pain testing: Pain responses to thermal stimuli were recorded.
+    Pre-intervention pain testing: Thermal stimuli delivered to two calibrated forearm sites.
+    Social manipulation: Videos describing analgesic or hyperalgesic tDCS effects.
+    tDCS intervention:
+        2mA stimulation for 20 minutes using the StarStim system.
+        Anode: C3; Cathode: FP2.
+    Post-intervention pain testing: Pain responses to thermal stimuli were recorded.
 
 ### Step 3: Questionnaires assessed:
-  #### Expectations about tDCS effects.
-  #### Sensations experienced during stimulation.
+    Expectations about tDCS effects.
+    Sensations experienced during stimulation.
 
 ## Methodology Diagram
-Here is the study design:
 ![image](https://github.com/user-attachments/assets/00d362e4-f3c0-46f9-97c2-8a6d40695ae6)

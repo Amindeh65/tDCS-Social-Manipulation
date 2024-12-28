@@ -37,3 +37,11 @@ In this double-blind, randomized cross-over study, we aimed to investigate the e
 
 ## Methodology Diagram
 ![image](https://github.com/user-attachments/assets/0de7da92-7f4e-4940-b795-4ee8d1dfeba9)
+
+
+## Codes
+Click [here](https://github.com/canlab/stimMAP_2022_public/tree/main/Codes) for codes
+
+
+## Data
+Click [here](https://github.com/canlab/stimMAP_2022_public/tree/main/Behavioral%20data_20%20participants) for data
